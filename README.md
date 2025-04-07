@@ -43,7 +43,7 @@ python mqix.py
 - `utils.py`: Helper functions  
 - `images/`: Game assets  
 
-## Team Members
+## Team Members - Group 120
 
 - Shrey Mistry (501155562)  
 - Sanjid Sharaf (501262513)  
